@@ -1,1 +1,2 @@
-# SandyLeiva_RepoSem12
+# SandyLeiva_RepoSem12 
+Mi API y Proyecto React
